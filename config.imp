@@ -1,0 +1,19 @@
+a =1
+a = a+4
+d = 6 * 2
+g = a + d
+postd(g) hmm 17 basmalı \hmm
+frmt = jpeg
+res = 1920x1080
+posts assignedfrmt
+posts assignedres
+postd(3/0)
+hmm 3/0 için division by 0 hatası verip daha sonra 3 print ediyor. Yapısal bir hata \hmm
+b = true
+c = false
+postb(c or b)
+postb(a<7)
+postb(a==7)
+if a<4 {a=3} else {a=5}
+while(a<10){a=a+1}
+func x() {a=1}
