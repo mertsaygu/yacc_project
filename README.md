@@ -61,4 +61,4 @@ It takes files with the extesion `.imp`, abbreviation for image processing
 - `make run` runs config.imp
 - `make clear` removes y.tab.c, y.tab.h, lex.yy.c and improc files
 
-> I only parsed `If else`, `while` and `function` because program does all assignments at the beginning before checking the condition is true or false. I tried to find a solution and I found explanation that I should not do it in this way. [Explanation](https://stackoverflow.com/questions/55563335/how-to-parse-if-else-statements-with-yacc)
+> I only parsed `If else`, `while` and `function` because program does all assignments at the beginning before checking the condition is true or false. I tried to find a solution and I found an explanation that I should not do it in this way. [Explanation](https://stackoverflow.com/questions/55563335/how-to-parse-if-else-statements-with-yacc)
